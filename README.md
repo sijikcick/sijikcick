@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sijikcick
-- 👀 I’m interested in software development and 
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in system building, backend devolepment 
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kijikcick@gmail.com
 
