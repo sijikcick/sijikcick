@@ -2,7 +2,7 @@
 - 👀 I’m interested in system building, backend devolepment 
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me kijikcick@gmail.com
+- 📫 How to reach me hijikcick@gmail.com
 
 <!---
 sijikcick/sijikcick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
